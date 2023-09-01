@@ -70,7 +70,7 @@
 ほげ[ふが](https://github.com/)ぴよ
 
 
-[ほげ](./docs/hoge.md)
+[ほげ](./docs/../hoge.md)
 
 ![ほげ](./docs/../hoge.png)
 
