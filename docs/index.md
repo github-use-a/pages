@@ -72,6 +72,6 @@
 
 [ほげ](./docs/hoge.md)
 
-![ほげ](./docs/hoge.png)
+![ほげ](./docs/../hoge.png)
 
 
